@@ -58,7 +58,6 @@ url = "https://github.com/RichardGonzalezM"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "/index.xml"
+url = "/richardsblog.github.io/index.xml"
 
-[taxonomies]
-   tag = "tags"
+
