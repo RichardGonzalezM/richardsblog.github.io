@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+disqusShortname = "richardsblog-3"
 
 [params]
 	subtitle = "A personal blog of an [engineering student](https://github.com/RichardGonzalezM)"
