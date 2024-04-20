@@ -31,3 +31,5 @@ A lot of folks have taken many more tries to make it, while others have nailed i
 
 Another point is that this isn't the only decent university in the country. It's not the end of the world if you don't make it. I truly believe that the real game-changer is yourself.
 
+In the end, what truly matters is the effort you put in, the lessons you learn along the way, and the growth you experience, regardless of the outcome. So, keep pushing forward, keep learning, and keep striving for your dreams.
+
